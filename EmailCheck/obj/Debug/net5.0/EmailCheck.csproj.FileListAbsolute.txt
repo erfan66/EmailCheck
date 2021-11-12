@@ -1,0 +1,16 @@
+D:\VS2019\EmailCheck\EmailCheck\EmailCheck\bin\Debug\net5.0\EmailCheck.exe
+D:\VS2019\EmailCheck\EmailCheck\EmailCheck\bin\Debug\net5.0\EmailCheck.deps.json
+D:\VS2019\EmailCheck\EmailCheck\EmailCheck\bin\Debug\net5.0\EmailCheck.runtimeconfig.json
+D:\VS2019\EmailCheck\EmailCheck\EmailCheck\bin\Debug\net5.0\EmailCheck.runtimeconfig.dev.json
+D:\VS2019\EmailCheck\EmailCheck\EmailCheck\bin\Debug\net5.0\EmailCheck.dll
+D:\VS2019\EmailCheck\EmailCheck\EmailCheck\bin\Debug\net5.0\ref\EmailCheck.dll
+D:\VS2019\EmailCheck\EmailCheck\EmailCheck\bin\Debug\net5.0\EmailCheck.pdb
+D:\VS2019\EmailCheck\EmailCheck\EmailCheck\obj\Debug\net5.0\EmailCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS2019\EmailCheck\EmailCheck\EmailCheck\obj\Debug\net5.0\EmailCheck.AssemblyInfoInputs.cache
+D:\VS2019\EmailCheck\EmailCheck\EmailCheck\obj\Debug\net5.0\EmailCheck.AssemblyInfo.cs
+D:\VS2019\EmailCheck\EmailCheck\EmailCheck\obj\Debug\net5.0\EmailCheck.csproj.CoreCompileInputs.cache
+D:\VS2019\EmailCheck\EmailCheck\EmailCheck\obj\Debug\net5.0\EmailCheck.dll
+D:\VS2019\EmailCheck\EmailCheck\EmailCheck\obj\Debug\net5.0\ref\EmailCheck.dll
+D:\VS2019\EmailCheck\EmailCheck\EmailCheck\obj\Debug\net5.0\EmailCheck.pdb
+D:\VS2019\EmailCheck\EmailCheck\EmailCheck\obj\Debug\net5.0\EmailCheck.genruntimeconfig.cache
+D:\VS2019\EmailCheck\EmailCheck\EmailCheck\obj\Debug\net5.0\EmailCheck.csproj.AssemblyReference.cache
